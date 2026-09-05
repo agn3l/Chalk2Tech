@@ -2,9 +2,7 @@
 
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Hackathon MVP](https://img.shields.io/badge/Hackathon-Working%20Prototype-10B981?style=for-the-badge&logo=codeforces&logoColor=white)]()
 [![Design System](https://img.shields.io/badge/UI-Dark%20SaaS%20Slate-6366F1?style=for-the-badge)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > **Chalk2Tech** is a unified, intelligent faculty command center designed to eliminate the repetitive administrative burden on educators. From predictive 75% attendance recovery calculations and peer-tutoring seating optimization to code plagiarism AST diffs, AI-generation heuristics, personalized report comments, and anonymous student comprehension voting — all in one modern dashboard.
 
@@ -145,21 +143,5 @@ npm run build
 Generates an optimized, minified bundle in `dist/` in under 3 seconds.
 
 ---
-
-## 🎤 3-Minute Hackathon Demo Script
-
-1. **Introduction (30s)**:
-   > *"Faculty spend over 15 hours a week on repetitive administrative tasks. Chalk2Tech brings attendance calculations, seating optimization, plagiarism checking, report writing, and comprehension tracking into one unified teacher dashboard."*
-2. **Attendance Math Engine (45s)**:
-   > *"In Attendance, Rahul is at 68.3%. Our exact algorithm proves he needs **16 consecutive classes** to reach 75%. Watch: I click `+1` for today's lecture, and his requirement drops to 15 live on screen! We can also click 'Generate Warning Notice' for a ready-to-post notice."*
-3. **Smart Seating (45s)**:
-   > *"In Smart Seating, our 'Peer Tutoring' algorithm automatically pairs Priya (94 marks) next to Meera (35 marks) on shared benches with a green buddy tag. And teachers can click any two desks to swap them interactively."*
-4. **Assignments & Integrity (45s)**:
-   > *"Rahul submitted 35 minutes late. Worse, our AST engine caught an **87% code match** with Akhil. We can inspect the side-by-side diff showing identical AVL tree rotation helpers with renamed variables, and flag him for an oral viva."*
-5. **Student Voice & Report Cards (15s)**:
-   > *"Shy students can scan our blackboard QR code to vote anonymously, giving teachers a live 73% comprehension meter, while our Report Card engine produces personalized comments across Professional, Encouraging, and Concise tones."*
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+Project Link- https://chalk2-tech-seven.vercel.app/
+Demo video and screenshots:https://drive.google.com/drive/folders/1JUua18TS_-mxlmwDzD8-BJ3GeSYoy1mE?usp=sharing
