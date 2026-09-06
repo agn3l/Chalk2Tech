@@ -1,8 +1,7 @@
-# Chalk2Tech — "From Chalk to Technology" 🎓💻
+# Chalk2Tech — "From Chalk to Technology"
 
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite 6](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Design System](https://img.shields.io/badge/UI-Dark%20SaaS%20Slate-6366F1?style=for-the-badge)]()
 
 > **Chalk2Tech** is a unified, intelligent faculty command center designed to eliminate the repetitive administrative burden on educators. From predictive 75% attendance recovery calculations and peer-tutoring seating optimization to code plagiarism AST diffs, AI-generation heuristics, personalized report comments, and anonymous student comprehension voting — all in one modern dashboard.
 
@@ -142,6 +141,5 @@ npm run build
 ```
 Generates an optimized, minified bundle in `dist/` in under 3 seconds.
 
----
 Project Link- https://chalk2-tech-seven.vercel.app/
-Demo video and screenshots:https://drive.google.com/drive/folders/1JUua18TS_-mxlmwDzD8-BJ3GeSYoy1mE?usp=sharing
+
